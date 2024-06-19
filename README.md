@@ -1,6 +1,10 @@
 # Amazon Sales Analysis
 
-Completed Internship Project with Innobyte Services and generated insightful reports using Power BI 
+This repository contains a comprehensive analysis of Amazon sales data to derive insights and recommendations. 
+
+This project was completed as part of an internship with Innobyte Services Company.
+
+## Project Structure
 
 Below is the brief description:
 
